@@ -1,25 +1,23 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "Who we are and what we are good at"
+date = "2022-11-10"
+aliases = ["about-us"]
+author = "Plaintext Frens"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+# Paco
+Average RFC Enjoyer
 
-Hugo makes use of a variety of open source projects including:
+I'm a software developer who's afraid of web browsers but feels deeply comfortable reading specs and tracing execution stacks.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+I'm a bit of a people person as well, and I enjoy ~~evangelizing~~ mentoring fellow developers into better development practices.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+I'll not shut up about Test Driven Development and ways to ensure code does what you expect.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+# Doug
+I can handle your math.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+I'm passionate about code that's nice to read and work with. I will ducktape-fix your code if requested to (maniac laugh not optional).
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+May or may not draw inspiration from the arcane workings of Newton and the sort.

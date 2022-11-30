@@ -1,0 +1,174 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+.about__logo	static/css/about.css	2;"	c
+.about__title	static/css/about.css	6;"	c
+.about__title::before	static/css/about.css	11;"	c
+.aside__social-links	static/css/about.css	16;"	c
+.aside__social-links li	static/css/about.css	20;"	s
+.aside__social-links li::marker	static/css/about.css	24;"	s
+.main-nav li	static/css/header.css	10;"	s
+.main-nav li::marker	static/css/header.css	15;"	s
+.main-nav ul	static/css/header.css	2;"	s
+.page	static/css/layout.css	17;"	c
+.page	static/css/layout.css	3;"	c
+.page__aside	static/css/layout.css	49;"	c
+.page__body	static/css/layout.css	42;"	c
+.page__footer	static/css/footer.css	1;"	c
+.page__footer	static/css/layout.css	55;"	c
+.page__footer p	static/css/footer.css	5;"	s
+.page__header	static/css/layout.css	28;"	c
+.page__logo	static/css/layout.css	33;"	c
+.page__logo	static/css/logo.css	1;"	c
+.page__logo-inner	static/css/logo.css	12;"	c
+.page__logo-inner:after	static/css/logo.css	34;"	c
+.page__logo-inner:before	static/css/logo.css	29;"	c
+.page__logo:before	static/css/logo.css	8;"	c
+.page__nav	static/css/layout.css	37;"	c
+.twitter-tweet::before	static/css/typography.css	135;"	c
+::selection	static/css/typography.css	164;"	s
+:root	static/css/colours.css	1;"	s
+:root	static/css/palettes/base16-dark.css	5;"	s
+:root	static/css/palettes/base16-light.css	5;"	s
+:root	static/css/palettes/gruvbox-dark.css	6;"	s
+:root	static/css/palettes/gruvbox-light.css	6;"	s
+:root	static/css/typography.css	2;"	s
+<!--more-->	exampleSite/content/post/rich-content.md	13;"	s
+Blockquote with attribution	exampleSite/content/post/markdown-syntax.md	48;"	t	section:H1""Blockquotes
+Blockquote without attribution	exampleSite/content/post/markdown-syntax.md	43;"	t	section:H1""Blockquotes
+Blockquotes	exampleSite/content/post/markdown-syntax.md	39;"	s	chapter:H1
+Code Blocks	exampleSite/content/post/markdown-syntax.md	70;"	s	chapter:H1
+Code block indented with four spaces	exampleSite/content/post/markdown-syntax.md	87;"	t	section:H1""Code Blocks
+Code block with Hugo's internal highlight shortcode	exampleSite/content/post/markdown-syntax.md	100;"	t	section:H1""Code Blocks
+Code block with backticks	exampleSite/content/post/markdown-syntax.md	72;"	t	section:H1""Code Blocks
+Colour palettes	README.md	42;"	S	section:risotto""Configure
+Colour palettes	exampleSite/content/_index.md	42;"	S	section:risotto""Configure
+Configure	README.md	36;"	s	chapter:risotto
+Configure	exampleSite/content/_index.md	36;"	s	chapter:risotto
+Examples	exampleSite/content/post/math-typesetting.md	38;"	S	section:math: true
+H1	exampleSite/content/post/markdown-syntax.md	26;"	c
+H2	exampleSite/content/post/markdown-syntax.md	27;"	s	chapter:H1
+H3	exampleSite/content/post/markdown-syntax.md	28;"	S	section:H1""H2
+H4	exampleSite/content/post/markdown-syntax.md	29;"	t	subsection:H1""H2""H3
+H5	exampleSite/content/post/markdown-syntax.md	30;"	T	subsubsection:H1""H2""H3""H4
+H6	exampleSite/content/post/markdown-syntax.md	31;"	u	l4subsection:H1""H2""H3""H4""H5
+Headings	exampleSite/content/post/markdown-syntax.md	22;"	s
+Inline Markdown within tables	exampleSite/content/post/markdown-syntax.md	64;"	t	section:H1""Tables
+Install	README.md	7;"	s	chapter:risotto
+Install	exampleSite/content/_index.md	7;"	s	chapter:risotto
+List Types	exampleSite/content/post/markdown-syntax.md	114;"	s	chapter:H1
+Mane refeci capiebant unda mulcebat	exampleSite/content/post/placeholder-text.md	33;"	s	chapter:Vagus elidunt
+Nested list	exampleSite/content/post/markdown-syntax.md	128;"	t	section:H1""List Types
+Ordered List	exampleSite/content/post/markdown-syntax.md	116;"	t	section:H1""List Types
+Other Elements — abbr, sub, sup, kbd, mark	exampleSite/content/post/markdown-syntax.md	138;"	s	chapter:H1
+Paragraph	exampleSite/content/post/markdown-syntax.md	33;"	s	chapter:H1
+Tables	exampleSite/content/post/markdown-syntax.md	55;"	s	chapter:H1
+Twitter Simple Shortcode	exampleSite/content/post/rich-content.md	24;"	s
+Unordered List	exampleSite/content/post/markdown-syntax.md	122;"	t	section:H1""List Types
+Update	README.md	21;"	s	chapter:risotto
+Update	exampleSite/content/_index.md	21;"	s	chapter:risotto
+Vagus elidunt	exampleSite/content/post/placeholder-text.md	27;"	c
+Vimeo Simple Shortcode	exampleSite/content/post/rich-content.md	32;"	s
+YouTube Privacy Enhanced Shortcode	exampleSite/content/post/rich-content.md	16;"	s
+a.active	static/css/typography.css	73;"	c
+a.page__logo-inner:active	static/css/logo.css	25;"	c
+a.page__logo-inner:hover	static/css/logo.css	24;"	c
+a.page__logo-inner:link	static/css/logo.css	19;"	c
+a.page__logo-inner:visited	static/css/logo.css	19;"	c
+a:active	static/css/typography.css	73;"	s
+a:hover	static/css/typography.css	73;"	s
+a:link	static/css/typography.css	69;"	s
+a:visited	static/css/typography.css	69;"	s
+b	static/css/typography.css	158;"	s
+blockquote	static/css/typography.css	123;"	s
+blockquote::before	static/css/typography.css	128;"	s
+body	static/css/risotto.css	9;"	s
+body	static/css/typography.css	6;"	s
+code	static/css/typography.css	143;"	s
+dd	static/css/typography.css	109;"	s
+dd + dt	static/css/typography.css	114;"	s
+dl	static/css/typography.css	118;"	s
+dt	static/css/typography.css	104;"	s
+h1	static/css/typography.css	13;"	s
+h1+h2	static/css/typography.css	24;"	s
+h1+h3	static/css/typography.css	25;"	s
+h1+h4	static/css/typography.css	26;"	s
+h1+h5	static/css/typography.css	27;"	s
+h1+h6	static/css/typography.css	28;"	s
+h1:before	static/css/typography.css	42;"	s
+h1:before	static/css/typography.css	49;"	s
+h1:first-child	static/css/typography.css	58;"	s
+h2	static/css/typography.css	14;"	s
+h2+h3	static/css/typography.css	29;"	s
+h2+h4	static/css/typography.css	30;"	s
+h2+h5	static/css/typography.css	31;"	s
+h2+h6	static/css/typography.css	32;"	s
+h2:before	static/css/typography.css	43;"	s
+h2:before	static/css/typography.css	50;"	s
+h3	static/css/typography.css	15;"	s
+h3+h4	static/css/typography.css	33;"	s
+h3+h5	static/css/typography.css	34;"	s
+h3+h6	static/css/typography.css	35;"	s
+h3:before	static/css/typography.css	44;"	s
+h3:before	static/css/typography.css	51;"	s
+h4	static/css/typography.css	16;"	s
+h4+h5	static/css/typography.css	36;"	s
+h4+h6	static/css/typography.css	37;"	s
+h4:before	static/css/typography.css	45;"	s
+h4:before	static/css/typography.css	52;"	s
+h5	static/css/typography.css	17;"	s
+h5+h6	static/css/typography.css	38;"	s
+h5:before	static/css/typography.css	46;"	s
+h5:before	static/css/typography.css	53;"	s
+h6	static/css/typography.css	18;"	s
+h6:before	static/css/typography.css	47;"	s
+h6:before	static/css/typography.css	54;"	s
+headless: true	exampleSite/content/homepage/index.md	2;"	s
+hr	static/css/typography.css	171;"	s
+hr:after	static/css/typography.css	176;"	s
+img	static/css/typography.css	211;"	s
+kbd	static/css/typography.css	144;"	s
+layout: "archives"	exampleSite/content/archives.md	4;"	s
+mark	static/css/typography.css	165;"	s
+math: true	exampleSite/content/post/math-typesetting.md	6;"	s
+ns381eb2020101	static/images/rice.svg	1;"	n	uri:http://www.w3.org/2000/svg
+ol	static/css/typography.css	83;"	s
+ol li::marker	static/css/typography.css	100;"	s
+ol ol	static/css/typography.css	91;"	s
+ol ul	static/css/typography.css	90;"	s
+p	static/css/typography.css	63;"	s
+pre	static/css/typography.css	142;"	s
+pre	static/css/typography.css	151;"	s
+risotto	README.md	1;"	c
+risotto	exampleSite/content/_index.md	1;"	c
+samp	static/css/typography.css	145;"	s
+strong	static/css/typography.css	159;"	s
+sub	static/css/typography.css	183;"	s
+sub	static/css/typography.css	189;"	s
+sup	static/css/typography.css	183;"	s
+table	static/css/typography.css	194;"	s
+td	static/css/typography.css	199;"	s
+td:first-child	static/css/typography.css	203;"	s
+th	static/css/typography.css	199;"	s
+th	static/css/typography.css	206;"	s
+th:first-child	static/css/typography.css	203;"	s
+ul	static/css/typography.css	78;"	s
+ul li::marker	static/css/typography.css	95;"	s
+ul ol	static/css/typography.css	89;"	s
+ul ul	static/css/typography.css	88;"	s
+weight: 1	exampleSite/content/homepage/work.md	4;"	s
+weight: 2	exampleSite/content/homepage/about.md	4;"	s
+xlink	static/images/rice.svg	1;"	n	uri:http://www.w3.org/1999/xlink
+{{ .Site.Title }}	layouts/partials/header.html	1;"	h
+{{ .Title | markdownify }}	layouts/_default/list.html	2;"	h
+{{ .Title | markdownify }}	layouts/_default/single.html	3;"	h
+{{ .Title | markdownify }}	layouts/post/list.html	10;"	h
+{{ .Title | markdownify }}	layouts/post/list.html	3;"	h
+{{ .Title | urlize }}	layouts/_default/list.html	2;"	I
+{{ .title }}	layouts/partials/about.html	4;"	h
